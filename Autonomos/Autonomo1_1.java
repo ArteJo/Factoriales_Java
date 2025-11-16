@@ -13,9 +13,11 @@ Calcule y muestre por pantalla el factorial de todos los valores numéricos ente
 
 Su programa debe incluir lo siguiente:
 [X] 1. Una clase principal con el método main
-[X] 2. Una clase secundaria con el método factorial que reciba como parámetro un número entero y devuelva como resultado el factorial de dicho número
+[X] 2. Una clase secundaria con el método factorial que reciba como parámetro un número entero y 
+       devuelva como resultado el factorial de dicho número
 [X] 3. En la clase principal debe hacerse uso de un objeto de la clase secundaria para generar el resultado deseado
-[X] 4. El programa debe incluir comentarios donde se muestra el nombre del alumno que desarrolla el programa, la fecha de compilación y explicación en las partes de código que considere más importantes
+[X] 4. El programa debe incluir comentarios donde se muestra el nombre del alumno que desarrolla
+       el programa, la fecha de compilación y explicación en las partes de código que considere más importantes
 [X] 5. Como sugerencia para este trabajo, use bucles for */
 
 // Clase principal del programa
@@ -67,4 +69,5 @@ class CalculadoraFactorial {
         // Return devuelve el resultado del factorial calculado a la clase principal
         return resultado;
     }
+
 }
