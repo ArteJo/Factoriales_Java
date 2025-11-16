@@ -1,2 +1,15 @@
-# Factoriales_Java
-Aprendizaje Autónomo 1 -  PROGRAMACION ESTRUCTURADA Y FUNCIONAL 1-CIB-2A
+# Proyectos Java
+Aprendizaje Autónomo 1
+──────────────────────────────────────────────────────
+
+INFORMACIÓN DEL PROYECTO
+
+Estudiante: Wilmer Joao Correa Guevara
+
+Docente: Carlos Alberto Vintimilla Carrasco
+
+Materia: PROGRAMACION ESTRUCTURADA Y FUNCIONAL 1-CIB-2A
+
+Universidad Internacional del Ecuador (UIDE)
+
+Repositorio: [Proyectos Java](https://github.com/ArteJo/Factoriales_Java)
