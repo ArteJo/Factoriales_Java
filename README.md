@@ -1,5 +1,5 @@
 # Proyectos Java
-Aprendizaje Autónomo 1
+Aprendizajes Autónomos
 
 ──────────────────────────────────────────────────────
 
