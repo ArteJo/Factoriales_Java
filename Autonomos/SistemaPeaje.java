@@ -1,6 +1,27 @@
 package Autonomos;
 
-// Arraylist sirve para manejar listas dinámicas
+/* Universidad Internacional del Ecuador UIDE
+PROGRAMACION ESTRUCTURADA Y FUNCIONAL 1-CIB-2A
+Nombre del Estudiante: Wilmer Joao Correa Guevara
+Nombre del Docente: CARLOS ALBERTO VINTIMILLA CARRASCO
+
+Evaluación en Contacto con el Docente - EVALUACION FINAL
+Se requiere desarrollar un programa que modele un sistema de peaje. Las estaciones de peaje 
+tienen un nombre, departamento o cantón en que están ubicadas y un valor numérico que representa 
+el valor total de peaje recolectado. Los vehículos que llegan a un peaje tienen una placa (tipo String). 
+
+El peaje cobra diferentes valores de peaje según el tipo de vehículo. 
+Si es un carro, el valor del peaje es de $2. Si es una moto, $1. 
+Si es un camión, el valor del peaje depende del número de ejes, se cobra $1 por cada eje. 
+
+Se requiere que: 
+[X] 1. La estación de peaje calcule el valor del peaje de cada vehículo que llegue y el total de peajes
+    recolectados. 
+[X] 2. Al finalizar, el sistema debe imprimir en pantalla un listado con los vehículos que llegaron al
+    peaje y el total acumulado.
+*/
+
+// Importamos ArrayList, esto nos sirve para manejar listas dinámicas
 import java.util.ArrayList;
 
 // Creamos una clase para el peaje
